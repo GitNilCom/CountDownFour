@@ -24,6 +24,7 @@
 		24629485249E01C3000C3BAE /* CECollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2462947E249E01C3000C3BAE /* CECollectionViewCell.xib */; };
 		24629486249E01C3000C3BAE /* CEOneTimeCountDownLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2462947F249E01C3000C3BAE /* CEOneTimeCountDownLabel.m */; };
 		24629487249E01C3000C3BAE /* CETableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 24629480249E01C3000C3BAE /* CETableViewCell.m */; };
+		24629489249E0A05000C3BAE /* CountDownFour.gif in Resources */ = {isa = PBXBuildFile; fileRef = 24629488249E0A05000C3BAE /* CountDownFour.gif */; };
 		8B451E831FC26731005789CD /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 8B451E811FC26731005789CD /* LICENSE */; };
 		8B451E851FC26737005789CD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8B451E841FC26737005789CD /* README.md */; };
 		8B967E271F19E269008C634D /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B967E251F19E269008C634D /* MainViewController.m */; };
@@ -112,6 +113,7 @@
 		24629481249E01C3000C3BAE /* CECollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CECollectionViewCell.h; sourceTree = "<group>"; };
 		24629482249E01C3000C3BAE /* CEOneTimeCountDownLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CEOneTimeCountDownLabel.h; sourceTree = "<group>"; };
 		24629483249E01C3000C3BAE /* CETableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CETableViewCell.h; sourceTree = "<group>"; };
+		24629488249E0A05000C3BAE /* CountDownFour.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = CountDownFour.gif; sourceTree = "<group>"; };
 		8B451E811FC26731005789CD /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 		8B451E841FC26737005789CD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		8B967E241F19E269008C634D /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
@@ -216,6 +218,7 @@
 		24629443249DFD98000C3BAE /* TimeCountDownFour */ = {
 			isa = PBXGroup;
 			children = (
+				24629488249E0A05000C3BAE /* CountDownFour.gif */,
 				24629462249E0137000C3BAE /* CETimeCountDown.h */,
 				2462945F249E0137000C3BAE /* CETimeCountDown.m */,
 				2462945C249E0137000C3BAE /* CETimeCountDownCellManager.h */,
@@ -544,6 +547,7 @@
 				8BB533DD1F1313C700A21086 /* Assets.xcassets in Resources */,
 				8B451E831FC26731005789CD /* LICENSE in Resources */,
 				8B451E851FC26737005789CD /* README.md in Resources */,
+				24629489249E0A05000C3BAE /* CountDownFour.gif in Resources */,
 				8B967E281F19E269008C634D /* HomeTableViewController.xib in Resources */,
 				24629485249E01C3000C3BAE /* CECollectionViewCell.xib in Resources */,
 				24629474249E0161000C3BAE /* CERegularlyViewController.xib in Resources */,
